@@ -8,6 +8,7 @@ var allItems = $.getJSON("data.json", function(data) {
 });
 
 function updateList() {
+  console.log(JSON.stringify(allItems));
   $("#raw_list").html("<ul>" + allItems + "</ul>");
 }
 
