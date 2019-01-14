@@ -1,5 +1,6 @@
 var allItems = $.getJSON("data.json", function(data) {
   var items = [];
+  console.log(data);
   $.each(data, function(key, val) {
     items.push("<li id='" + key + "'>" + val + "</li>");
   });
