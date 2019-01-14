@@ -1,10 +1,8 @@
-var allItems = $.getJSON("data.json", function(data) {
-  return data.main;
-});
+var data = $.getJSON("data.json");
 
 function updateList() {
   var items = "";
-  $.each(allItems, function(index, value) {
+  $.each(data.responseJSON.main, function(index, value) {
     items = items + "<li id='" + value.id + "'>" + value.text + "</li>";
   });
   $("#raw_list").html("<ul>" + items + "</ul>");
