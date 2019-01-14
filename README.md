@@ -1,6 +1,9 @@
 # Crash Team Racing
 My take on how to make Crash Team Racing Nitro-Fueled as good as possible, based on CTR, CNK and CTTR
 
+https://sebranly.github.io/crash-team-racing/
+HTML validator: https://validator.w3.org/
+
 ## Sources
 
 ### Reddit
