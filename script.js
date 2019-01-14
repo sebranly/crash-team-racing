@@ -1,6 +1,13 @@
 var allItems = $.getJSON("data.json", function(data) {
   var items = [];
+  console.log('Debug:');
+  console.log(data);
+  console.log(data.main);
   $.each(data.main, function(index, value) {
+    console.log('index');
+    console.log(index);
+    console.log('value');
+    console.log(value);
     items.push("<li id='" + value.id + "'>" + value.text + "</li>");
   });
   return items;
