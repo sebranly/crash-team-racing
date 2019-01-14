@@ -1,14 +1,12 @@
 var allItems = $.getJSON("data.json", function(data) {
   var items = [];
-  console.log(data);
-  $.each(data, function(key, val) {
-    items.push("<li id='" + key + "'>" + val + "</li>");
+  $.each(data.main, function(index, value) {
+    items.push("<li id='" + value.id + "'>" + value.text + "</li>");
   });
   return items;
 });
 
 function updateList() {
-  console.log(JSON.stringify(allItems));
   $("#raw_list").html("<ul>" + allItems + "</ul>");
 }
 
