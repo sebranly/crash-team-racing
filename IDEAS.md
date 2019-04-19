@@ -92,3 +92,7 @@ Insomniac Games was creating Crash Racing as well with Naughty Dog in 2010 - 57
 Up to 16 characters like Crash Team Racing 2010 - 57
 "A new way to keep you busy while racing was pulling off stunts in mid-air." - 57
 CTR had a glitch to change the number of laps in the cups - 60
+Optional handicap features and balance options are always welcome - 63
+include pre-console mixes of soundtracks so we get the parts that were missing before - 65
+The advanced power slide / boost capabilities need to be present (the "reserves," as well as the "yellow fire," and "sacred fire" techniques). Pro players will miss this greatly if this mechanic is removed - 70
+Please let us decide whether to use horizontal or vertical view during split screen. - 70

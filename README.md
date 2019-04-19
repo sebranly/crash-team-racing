@@ -37,6 +37,13 @@ HTML validator: https://validator.w3.org/
   - [Crash Team Racing (PS4 Remaster) - Ideas, Thoughts, etc.](https://www.reddit.com/r/crashbandicoot/comments/6mh459/crash_team_racing_ps4_remaster_ideas_thoughts_etc/) - 35
   - [Road to Crash Remastered: Week 4 - Crash Team Racing](https://www.reddit.com/r/crashbandicoot/comments/5fgkx9/road_to_crash_remastered_week_4_crash_team_racing/) - 37
   - [How much would a CTR remake cost?](https://www.reddit.com/r/crashbandicoot/comments/a33d5e/how_much_would_a_ctr_remake_cost/) - 54
+  - [How do you feel about this? I put the N. Sane trilogy icons on the left HUD](https://www.reddit.com/r/crashbandicoot/comments/an8rp0/how_do_you_feel_about_this_i_put_the_n_sane/) - 69
+  - ["Crash Team Racing Nitro-Fueled" Preview – Reactions Megathread](https://www.reddit.com/r/crashbandicoot/comments/an74t0/crash_team_racing_nitrofueled_preview_reactions/) - 70
+  - [New character selection screen!](https://www.reddit.com/r/crashbandicoot/comments/an3g2n/new_character_selection_screen/) - 71
+  - [Crash Team Racing Nitro-Fueled (16 Minute Gameplay)](https://www.reddit.com/r/crashbandicoot/comments/an35n4/crash_team_racing_nitrofueled_16_minute_gameplay/) - 72
+  - [Dingodile without the dile](https://www.reddit.com/r/crashbandicoot/comments/an90hj/dingodile_without_the_dile/) - 73
+  - [Can We Get 2D Icons Instead of 3D Renders For The Character Potraits in CTR:NF?](https://www.reddit.com/r/crashbandicoot/comments/ana10q/can_we_get_2d_icons_instead_of_3d_renders_for_the/) - 74
+  - [New CTR Footage!](https://www.reddit.com/r/crashbandicoot/comments/an31nx/new_ctr_footage/) - 75
 - [Crash Team Racing](https://www.reddit.com/r/crashteamracing/)
 - [Crash Team Racing League](https://www.reddit.com/r/CTRLeague/)
   - [Some competitive features CTR:NF needs to have](https://www.reddit.com/r/CTRLeague/comments/a54f22/some_competitive_features_ctrnf_needs_to_have/) - 1
@@ -61,7 +68,13 @@ HTML validator: https://validator.w3.org/
 ### Crash Mania
 
 - [Crash Landed - Overview](https://www.crashmania.net/en/games/crash-landed/overview/) - 56
-- [https://www.crashmania.net/en/games/crash-team-racing-2010/](https://www.crashmania.net/en/games/crash-team-racing-2010/) - 57
+- [Crash Team Racing (2010) - Overview](https://www.crashmania.net/en/games/crash-team-racing-2010/) - 57
+- [A Bandicoot and His Vehicles](https://www.crashmania.net/en/blog/a-bandicoot-and-his-vehicles/) - 62
+- [Multiplayer Mayhem](https://www.crashmania.net/en/blog/multiplayer-mayhem/) - 63
+- [Vicarious Visions Responds to Feedback](https://www.crashmania.net/en/blog/vicarious-visions-feedback/)
+- [Vicarious Visions Responds to Feedback - Part 2](https://www.crashmania.net/en/blog/vicarious-visions-feedback-2/)
+- [The Remake Conundrum](https://www.crashmania.net/en/blog/remake-conundrum/) - 64
+- [CTR Nitro-Fueled - First Thoughts](https://www.crashmania.net/en/blog/ctr-nitro-fueled-first-thoughts/) - 65
 
 ### YouTube
 
@@ -84,6 +97,25 @@ HTML validator: https://validator.w3.org/
 - [Crash Team Racing - Scrapbook (NTSC-U)](https://www.youtube.com/watch?v=F_RDTtxMPOc) - 59
 - [Crash Team Racing Glitch Picnic! | CTR Glitches (Playstation 1) | MikeyTaylorGaming](https://www.youtube.com/watch?v=WJe_0oWOD4M) - 60
 - [Crash Team Racing - Behind the Scenes [Making Of] [PlayStation Underground]](https://www.youtube.com/watch?v=GMHYrCZBmk0) - 61
+- [CRASH BANDICOOT NITRO KART 2 (iPhone Gameplay Video)](https://www.youtube.com/watch?v=00JCdYCP4EQ) - 66
+- [Crash Bandicoot Nitro Kart 3D | iOS | Part 1 - Easy Cup](https://www.youtube.com/watch?v=zAlyLHUU-eo) - 67
+- [Let's Play Crash Bandicoot Nitro Kart 2 (iOS): E3 - Cup3](https://www.youtube.com/watch?v=RvlFmwfiiJY) - 68
+- https://www.youtube.com/watch?v=bQ5V-CoaIm0&feature=youtu.be
+- [Crash Team Racing Nitro-Fueled | Crash Cove, Dingo Canyon & Polar Pass Gameplay](https://www.youtube.com/watch?v=TvmkRFib4ag) - xx
+- [Crash Team Racing Nitro-Fueled GAMEPLAY | Three Remastered Tracks](https://www.youtube.com/watch?v=bUyLXxc44mc) - xx
+- [Crash Team Racing Nitro-Fueled – Gameplay Trailer](https://www.youtube.com/watch?v=NnUidRukQTg) - xx
+- [Crash Team Racing Nitro-Fueled | Gameplay Video | PS4](https://www.youtube.com/watch?v=2GmOU_0Ta6A) - xx
+- [Crash Team Racing: Nitro Fueled - 8 Minutes of Racing Mayhem](https://www.youtube.com/watch?v=VCIt3l2PEEw) - xx
+- [Crash Team Racing Nitro-Fueled - PS4/PS1 Graphics Comparison](https://www.youtube.com/watch?v=Q87VYfUbtpU) - xx
+- [Crash Team Racing: Nitro Fueled - Split Screen Mayhem](https://www.youtube.com/watch?v=CPrnmkME2UA) - xx
+- [Crash Team Racing Nitro Fueled - Polar Pass FULL RACE PS1 VS PS4 GAMEPLAY COMPARISON!](https://www.youtube.com/watch?v=AT63sPkveJs) - xx
+- [Crash Team Racing Nitro Fueled - Polar Pass FULL RACE GAMEPLAY!](https://www.youtube.com/watch?v=dV5MIt8vtu0) - xx
+- ["Crash Team Racing: Nitro-Fueled" Gameplay Analysis/First Impressions](https://www.youtube.com/watch?v=t9S5B4HlyZQ) - xx
+- [Crash Team Racing: Nitro Fueled Hands-On Preview](https://www.youtube.com/watch?v=CvfOaQ_HI4g) - xx
+- [NEW Crash Team Racing: Nitro-Fueled - Graphics Comparison (Crash Cove, Dingo Canyon, Polar Pass)](https://www.youtube.com/watch?v=4CHHfqE3xa8) - xx
+- [Crash Team Racing Nitro-Fueled (PS4/XO/NS) - GameSpot Gameplay PS1 & PS4 Comparison](https://www.youtube.com/watch?v=sJmt0C-bqIs) - xx
+- [Crash Team Racing Nitro-Fueled | MULTIPLAYER | Crash Cove, Dingo Canyon & Polar Pass](https://www.youtube.com/watch?v=bmK7iTwDYbc) - xx
+- [Opinion: How Crash Team Racing Beat Mario Kart at Its Own Game](https://www.youtube.com/watch?v=zih2IvU7owk) - xx
 
 ### Others
 
@@ -109,3 +141,6 @@ HTML validator: https://validator.w3.org/
 - https://www.youtube.com/watch?v=aaztIVJjVSk include demo of Spyro Ps4 in CTRNF
 - https://www.youtube.com/watch?v=40E1li0rMuU
 - https://www.youtube.com/watch?v=Iq18wkN7FIQ
+
+- https://blog.activision.com/crash-bandicoot/2018-12/nitro-fueled-studio-co-head-talks-ctr-post-reveal
+- https://blog.us.playstation.com/2019/02/04/behind-the-wheel-with-crash-team-racing-nitro-fueled/
