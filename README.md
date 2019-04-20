@@ -44,6 +44,11 @@ HTML validator: https://validator.w3.org/
   - [Dingodile without the dile](https://www.reddit.com/r/crashbandicoot/comments/an90hj/dingodile_without_the_dile/) - 73
   - [Can We Get 2D Icons Instead of 3D Renders For The Character Potraits in CTR:NF?](https://www.reddit.com/r/crashbandicoot/comments/ana10q/can_we_get_2d_icons_instead_of_3d_renders_for_the/) - 74
   - [New CTR Footage!](https://www.reddit.com/r/crashbandicoot/comments/an31nx/new_ctr_footage/) - 75
+  - [Why do you think anti gravity was removed?](https://www.reddit.com/r/crashbandicoot/comments/b5phgc/why_do_you_think_anti_gravity_was_removed/) - 76
+  - [Crash Team Racing GameStop demo](https://www.reddit.com/r/crashbandicoot/comments/bf226e/crash_team_racing_gamestop_demo/) - 80
+  - [Shout-out to all those who get to enjoy the CTR:NF demo this weekend!
+](https://www.reddit.com/r/crashbandicoot/comments/beysqp/shoutout_to_all_those_who_get_to_enjoy_the_ctrnf/) - 81
+  - [](https://www.reddit.com/r/crashbandicoot/comments/bdmzaf/i_checked_with_my_local_gamestop_and_they_have_a/) - xx
 - [Crash Team Racing](https://www.reddit.com/r/crashteamracing/)
 - [Crash Team Racing League](https://www.reddit.com/r/CTRLeague/)
   - [Some competitive features CTR:NF needs to have](https://www.reddit.com/r/CTRLeague/comments/a54f22/some_competitive_features_ctrnf_needs_to_have/) - 1
@@ -116,6 +121,8 @@ HTML validator: https://validator.w3.org/
 - [Crash Team Racing Nitro-Fueled (PS4/XO/NS) - GameSpot Gameplay PS1 & PS4 Comparison](https://www.youtube.com/watch?v=sJmt0C-bqIs) - xx
 - [Crash Team Racing Nitro-Fueled | MULTIPLAYER | Crash Cove, Dingo Canyon & Polar Pass](https://www.youtube.com/watch?v=bmK7iTwDYbc) - xx
 - [Opinion: How Crash Team Racing Beat Mario Kart at Its Own Game](https://www.youtube.com/watch?v=zih2IvU7owk) - xx
+- [Crash Team Racing Nitro-Fueled – PS4 Exclusives & CNK Content Reveal Trailer](https://www.youtube.com/watch?v=cuTM-G3nfgY) - 78
+- [Crash Team Racing Nitro-Fueled – Electron Skins Reveal Trailer | PS4](https://www.youtube.com/watch?v=DJNT9Frs8fw) - 79
 
 ### Others
 
@@ -144,3 +151,6 @@ HTML validator: https://validator.w3.org/
 
 - https://blog.activision.com/crash-bandicoot/2018-12/nitro-fueled-studio-co-head-talks-ctr-post-reveal
 - https://blog.us.playstation.com/2019/02/04/behind-the-wheel-with-crash-team-racing-nitro-fueled/
+- https://butwhythopodcast.com/2019/03/28/demo-review-crash-team-racing-nitro-fueled/ - 77
+- https://crashynews.wordpress.com/2019/04/06/gamestop-united-states-will-be-getting-a-demo-event-of-crash-team-racing-nitro-fueled-ps4-wumpa-fruit-air-freshener-as-preorder-bonus-weekend-offer/ - 82
+- https://fanfest.com/2019/02/04/crash-team-racing-nitro-fueled-demo-first-impressions-interview/ - 83

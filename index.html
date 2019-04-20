@@ -3,16 +3,20 @@
   <head>
     <title>Crash Team Racing</title>
     <link rel="icon" type="image/png" href="favicon.png">
+    <link rel="stylesheet" href="styles.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   </head>
   <body>
     <script src="script.js"></script>
-    <script type="text/javascript" src="data.json"></script>
+    <script type="application/json" src="data.json"></script>
     <h1>Crash Team Racing</h1>
     <form id="search_form">
       <input id="category_text_search" type="text" required value="" placeholder="Search for any tag (e.g. CTR)">
       <input id="search_button" type="button" value="Search">
     </form>
     <div id="raw_list"></div>
+    <div id="footer">
+      <a href="https://github.com/sebranly/crash-team-racing" title="GitHub">Hosted on GitHub</a>
+    </div>
   </body>
 </html>

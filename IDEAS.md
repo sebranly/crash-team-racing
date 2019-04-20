@@ -96,3 +96,7 @@ Optional handicap features and balance options are always welcome - 63
 include pre-console mixes of soundtracks so we get the parts that were missing before - 65
 The advanced power slide / boost capabilities need to be present (the "reserves," as well as the "yellow fire," and "sacred fire" techniques). Pro players will miss this greatly if this mechanic is removed - 70
 Please let us decide whether to use horizontal or vertical view during split screen. - 70
+There will be CNK tracks - 78
+There will be additional outfits - 79
+Where are the Trophy Girls - 79
+There should be a really hard (difficult) mode for advanced players - 80
