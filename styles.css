@@ -2,3 +2,18 @@
   bottom: 0;
   position: absolute;
 }
+
+#available_tags_div {
+  margin-top: 10px;
+}
+
+#available_tags ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#available_tags li {
+  display: inline;
+  margin-right: 5px;
+}

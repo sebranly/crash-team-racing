@@ -8,12 +8,16 @@
   </head>
   <body>
     <script src="script.js"></script>
-    <script type="application/json" src="data.json"></script>
     <h1>Crash Team Racing</h1>
     <form id="search_form">
       <input id="category_text_search" type="text" required value="" placeholder="Search for any tag (e.g. CTR)">
       <input id="search_button" type="button" value="Search">
+      <input id="clear_text_search_button" type="button" value="Clear">
     </form>
+    <div id="available_tags_div">
+      Or pick directly between any of these tags
+      <div id="available_tags"></div>
+    </div>
     <div id="raw_list"></div>
     <div id="footer">
       <a href="https://github.com/sebranly/crash-team-racing" title="GitHub">Hosted on GitHub</a>
