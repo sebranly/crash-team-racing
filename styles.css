@@ -17,3 +17,21 @@
   display: inline;
   margin-right: 5px;
 }
+
+.link_id {
+  cursor: pointer;
+  display: inline-block;
+  text-decoration: underline;
+}
+
+.deprecated_text {
+  display: inline-block;
+  margin-right: 5px;
+  text-decoration: line-through;
+}
+
+.confirmed_text {
+  display: inline-block;
+  margin-right: 5px;
+  color: darkgreen;
+}

@@ -8,27 +8,20 @@ Do not make the same mistake as the one that was made for Spyro regarding downlo
 The closest a story mode was in a Mario Kart game was Mario Kart DS' mission mode. - 2
 Keep the skill based drift mechanics, that also requires track knowledge ; same goes for jumping boost mechanics - 2
 Introduce some hovercraft capabilities like in CNK - 2
-The gameplay in CTRNF has to feel exactly like old CTR - 2
-Has to be 60 fps - 2
 In CTR, the shield itself turned into a weapon which you could launch, but you had to launch use it before you could use anything else - how is it in CNK though? - 2
 Get some elements from Spyro - 2
 Vicarious Visions, who's behind the N.Sane Trilogy, also made Crash Nitro Kart back in 2003 - 2
 Add new maps - 2
-Have split-screen + online mode - 3
 Add new characters - 3
 Maybe even add a level editor so players can make their own tracks - note: CNK has a poor one for battle arenas - 3
 Have more cinematics - 3
 No paid DLCs - 3
 Add mascots from other playstation games; Sackboy, Ratchet & Clank, Sly Cooper - 3
-4K quality - 4
-developed by Naughty Dog (not going to happen) - 4
 VR support - 4
 Spyro on his skateboard - 4
 have a system in which we can assign characteristics to character (speed, etc.) with a fixed number of points - 6
 include other characters from the series like Koala Kong, N. Brio and Tawna - 7
 Spyro with Sparx instead of Aku Aku or Uka Uka - 7
-Port to PC - 8
-Cross-platform to play with Switch owners etc. - 8
 Have levels from Mario Kart (e.g. Fort Battle) - myself
 Counter of how many boosts you achieve in a row like in CNK - 14
 have a bundle with N. Sane and Spyro - 15
@@ -95,8 +88,21 @@ CTR had a glitch to change the number of laps in the cups - 60
 Optional handicap features and balance options are always welcome - 63
 include pre-console mixes of soundtracks so we get the parts that were missing before - 65
 The advanced power slide / boost capabilities need to be present (the "reserves," as well as the "yellow fire," and "sacred fire" techniques). Pro players will miss this greatly if this mechanic is removed - 70
-Please let us decide whether to use horizontal or vertical view during split screen. - 70
 There will be CNK tracks - 78
 There will be additional outfits - 79
 Where are the Trophy Girls - 79
 There should be a really hard (difficult) mode for advanced players - 80
+Bounce off of another player! Powerslide enough to spin out. Check if there is an option to switch off motion blur - 84
+Warp Ball looks too much like Blue Shield - 84
+Is there the froggy, the U-turn, Speedghosts, Mid Air Power Slides, and other advanced techniques - 84
+rilla roo - 84
+Tracking Missile backward as well targeting other racers behind you - 84
+Include Carbon Crash - 95
+Include gladiator tiny - 97
+Reserve is present - 100
+Include Scuba Crash, Motorcycle Crash, Ninja Cortex - 108
+Include Evil Coco and Evil Crash - 118
+Fix Hitbox for flames in Tiger Temple - 122
+Fix hills killing your speed in Tiger Temple - 123
+Explain with dates (february demo, PAX, GameStop) with differences e.g. feb was lacking tail and Gamestop too but not PAX ; GameStop had reserves but not february demo - myself
+Hide a character in the map and finding him unlocks him, like Fake Crash in CNK - 131

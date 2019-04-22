@@ -48,7 +48,52 @@ HTML validator: https://validator.w3.org/
   - [Crash Team Racing GameStop demo](https://www.reddit.com/r/crashbandicoot/comments/bf226e/crash_team_racing_gamestop_demo/) - 80
   - [Shout-out to all those who get to enjoy the CTR:NF demo this weekend!
 ](https://www.reddit.com/r/crashbandicoot/comments/beysqp/shoutout_to_all_those_who_get_to_enjoy_the_ctrnf/) - 81
-  - [](https://www.reddit.com/r/crashbandicoot/comments/bdmzaf/i_checked_with_my_local_gamestop_and_they_have_a/) - xx
+  - [](https://www.reddit.com/r/crashbandicoot/comments/bdmzaf/i_checked_with_my_local_gamestop_and_they_have_a/) - 84
+  - [](https://www.reddit.com/r/crashbandicoot/comments/bevab3/should_ctrnf_have_accessibility_options/)
+  - [](https://www.reddit.com/r/crashbandicoot/comments/bf4bs9/fps/)
+  - [](https://www.reddit.com/r/crashbandicoot/comments/bf2xdi/so_are_the_nice_pax_demo_character_icons_gone/) - 85
+  - [](https://www.reddit.com/r/crashbandicoot/comments/bfdkc1/those_alternate_color_skins_are_horrible_please/) - 86
+  - [](https://www.reddit.com/r/crashbandicoot/comments/bf2vim/rilla_roo_started_off_as_a_shitpost_and_i_cant/) - 87
+  - [](https://www.reddit.com/r/crashbandicoot/comments/bf21im/and_the_demo_is_here/) - 88
+  - [](https://www.reddit.com/r/crashbandicoot/comments/bf4i3b/blue_crash/) - 89
+  - [](https://www.reddit.com/r/crashbandicoot/comments/bf0wms/coming_soon_crash_bandicoot_pop_rides_funko/) - 90
+  - [](https://www.reddit.com/r/crashbandicoot/comments/bf2ve1/pura_skin/) - 91
+  - [](https://www.reddit.com/r/crashbandicoot/comments/bfelu2/skins_good_chromas_bad/) - 92
+  - [](https://www.reddit.com/r/crashbandicoot/comments/bf46ci/the_demo_was_a_heartwarming_experience/) - 93
+  - [](https://www.reddit.com/r/crashbandicoot/comments/bfdel7/stop_whining_about_the_skins/) - 94
+  - [](https://www.reddit.com/r/crashbandicoot/comments/bf578k/several_images_of_character_color_pallet_swaps/) - 95
+  - [](https://www.reddit.com/r/crashbandicoot/comments/bfimd4/polar_pass_illegal_shortcut/) - 96
+  - [](https://www.reddit.com/r/crashbandicoot/comments/bfbbww/unpopular_opinion_i_dont_like_those_colourful/) - 97
+  - [](https://www.reddit.com/r/crashbandicoot/comments/bfjh3m/about_the_demo/) - 98
+  - [](https://www.reddit.com/r/crashbandicoot/comments/bf823b/ctrnf_gamestop_demo_tiger_temple/) - 99
+  - [](https://www.reddit.com/r/crashbandicoot/comments/bf8c98/reserve_system_is_definitely_back/) - 100
+  - [](https://www.reddit.com/r/crashbandicoot/comments/bf7a5p/ctrnf_gamestop_demo_crash_cove/) - 101
+  - [](https://www.reddit.com/r/crashbandicoot/comments/bfiktv/what_is_this_icon_supposed_to_be/) - 102
+  - [](https://www.reddit.com/r/crashbandicoot/comments/bfh546/one_more_thing_i_learned_from_the_demo/) - 103
+  - [](https://www.reddit.com/r/crashbandicoot/comments/bfkm3y/the_player_skill_is_inversely_proportional_to_the/) - 104
+  - [](https://www.reddit.com/r/crashbandicoot/comments/bfdx2q/anyone_else_really_confused_about_this_whole/) - 105
+  - [](https://www.reddit.com/r/crashbandicoot/comments/bfggew/played_the_demo_some_thoughts/) - 106
+  - [](https://www.reddit.com/r/crashbandicoot/comments/bfgyrs/got_the_chance_to_play_nitro_fueled_after_work/) - 107
+  - [](https://www.reddit.com/r/crashbandicoot/comments/bff07t/opinion_on_the_new_ctr_nf_skins_from_gamestop_demo/) - 108
+  - [](https://www.reddit.com/r/crashbandicoot/comments/bffm8z/red_panda_polar_credits_to_stefan_goncalvez_on/) - 109
+  - [](https://www.reddit.com/r/crashbandicoot/comments/bfc4py/ctr_reserves_vs_ctrnf_reserves_comparison/) - 110
+  - [](https://www.reddit.com/r/crashbandicoot/comments/bfggam/all_of_the_demo_skins/) - 111
+  - [](https://www.reddit.com/r/crashbandicoot/comments/bfjklb/edited_tiger_temple_footage_hope_ya_like_it/) - 112
+  - [](https://www.reddit.com/r/crashbandicoot/comments/bfiky3/better_footage_of_tiger_temple_and_customisations/) - 114
+  - [](https://www.reddit.com/r/crashbandicoot/comments/bfpc5i/boost_reserves_put_to_the_test_in_tiger_temple/) - 117
+  - [](https://www.reddit.com/r/crashbandicoot/comments/bfkgam/while_im_not_against_recolors_as_basic_skins_its/) - 118
+  - [](https://www.reddit.com/r/crashbandicoot/comments/bfodgz/can_we_just_take_a_moment_to_appreciate_how_crush/) - 119
+  - [](https://www.reddit.com/r/crashbandicoot/comments/bfojnz/one_thing_i_noticed_missing_with_the_skins/) - 120
+  - [](https://www.reddit.com/r/crashbandicoot/comments/bfp6ok/the_next_mainline_crash_game_as_a_playstation_5/) - 121
+  - [](https://www.reddit.com/r/crashbandicoot/comments/bfp8yl/tiger_temple_tiki_head_hit_box_issue/) - 122
+  - [](https://www.reddit.com/r/crashbandicoot/comments/bf8r70/megathread_reactions_feedback_to_playable_demo_at/) - 123
+  - [](https://www.reddit.com/r/crashbandicoot/comments/bfuig5/will_we_actually_get_team_racing_in_ctrnf/) - 128
+  - [](https://www.reddit.com/r/crashbandicoot/comments/bftgzy/crazy_jump_at_025_todays_gameplay_by_a_pro/) - 129
+  - [](https://www.reddit.com/r/crashbandicoot/comments/bfs1d9/most_underusedunderrated_characters_in_the_series/) - xx
+  - [](https://www.reddit.com/r/crashbandicoot/comments/bfs9kd/i_want_fake_crash_and_maybe_more_to_be_unlocked/) - 131
+  - [](https://www.reddit.com/r/crashbandicoot/comments/bfsp4c/how_will_out_of_time_even_work_without_antigrav/) - 132
+  - [](https://www.reddit.com/r/crashbandicoot/comments/bft2d1/what_are_sacred_fire_usf_and_reserves_explaining/) - 133
+
 - [Crash Team Racing](https://www.reddit.com/r/crashteamracing/)
 - [Crash Team Racing League](https://www.reddit.com/r/CTRLeague/)
   - [Some competitive features CTR:NF needs to have](https://www.reddit.com/r/CTRLeague/comments/a54f22/some_competitive_features_ctrnf_needs_to_have/) - 1
@@ -112,7 +157,7 @@ HTML validator: https://validator.w3.org/
 - [Crash Team Racing Nitro-Fueled | Gameplay Video | PS4](https://www.youtube.com/watch?v=2GmOU_0Ta6A) - xx
 - [Crash Team Racing: Nitro Fueled - 8 Minutes of Racing Mayhem](https://www.youtube.com/watch?v=VCIt3l2PEEw) - xx
 - [Crash Team Racing Nitro-Fueled - PS4/PS1 Graphics Comparison](https://www.youtube.com/watch?v=Q87VYfUbtpU) - xx
-- [Crash Team Racing: Nitro Fueled - Split Screen Mayhem](https://www.youtube.com/watch?v=CPrnmkME2UA) - xx
+- [Crash Team Racing: Nitro Fueled - Split Screen Mayhem](https://www.youtube.com/watch?v=CPrnmkME2UA) - 124
 - [Crash Team Racing Nitro Fueled - Polar Pass FULL RACE PS1 VS PS4 GAMEPLAY COMPARISON!](https://www.youtube.com/watch?v=AT63sPkveJs) - xx
 - [Crash Team Racing Nitro Fueled - Polar Pass FULL RACE GAMEPLAY!](https://www.youtube.com/watch?v=dV5MIt8vtu0) - xx
 - ["Crash Team Racing: Nitro-Fueled" Gameplay Analysis/First Impressions](https://www.youtube.com/watch?v=t9S5B4HlyZQ) - xx
@@ -123,6 +168,14 @@ HTML validator: https://validator.w3.org/
 - [Opinion: How Crash Team Racing Beat Mario Kart at Its Own Game](https://www.youtube.com/watch?v=zih2IvU7owk) - xx
 - [Crash Team Racing Nitro-Fueled – PS4 Exclusives & CNK Content Reveal Trailer](https://www.youtube.com/watch?v=cuTM-G3nfgY) - 78
 - [Crash Team Racing Nitro-Fueled – Electron Skins Reveal Trailer | PS4](https://www.youtube.com/watch?v=DJNT9Frs8fw) - 79
+- [](https://www.youtube.com/watch?v=UC2jBwKP5lE) - 113
+- [](https://www.youtube.com/watch?v=QFbLsa5oJMU) - 115
+- [](https://www.youtube.com/watch?v=Bs31rcpjVh8) - 116
+- [](https://www.youtube.com/watch?v=Nv3WEh1CEvg) - 125
+- [](https://www.youtube.com/watch?v=AK0d48rJe_Y) - 126
+- [](https://www.youtube.com/watch?v=qTAHkZNAw3A) - 127
+- [](https://www.youtube.com/watch?v=Vj3sFGPImqs) - 130
+- [](https://www.youtube.com/watch?v=-FijVUaBai8) - 134
 
 ### Others
 
